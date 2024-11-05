@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Party Missão: 14
-=======
 # P - Missão - E14
->>>>>>> 125eddfbd265c5fc85796d4f6241b56355088215
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
