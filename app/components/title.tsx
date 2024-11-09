@@ -4,7 +4,6 @@ const Title = () => {
     return (
         <div className="flex gap-4">
             <h1 className="text-slate-100 text-2xl font-bold">Missão</h1>
-            <Logo/>
         </div>
     )
 }
