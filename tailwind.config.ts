@@ -10,6 +10,7 @@ export default {
     extend: {
       colors: {
         "pink-primary": "#E879F9",
+        "white-primary": "#F1F5F9",
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
