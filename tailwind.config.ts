@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        "wt-image": "url('/wt.png')",
+      },
       colors: {
         "pink-primary": "#E879F9",
         "white-primary": "#F1F5F9",
