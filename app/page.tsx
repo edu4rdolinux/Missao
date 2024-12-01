@@ -1,5 +1,6 @@
 import Body from "./components/body";
 import Header from "./components/header";
+import OurStory from "./components/ourStory";
 import WtButton from "./components/wtButton";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <Header/>
       <Body/>
       <WtButton/>
+      <OurStory/>
     </>
   );
 }
