@@ -1,4 +1,4 @@
-import EffectWord from "./word"
+import EffectWord from "./effectText"
 
 const Body = () => {
     return (
