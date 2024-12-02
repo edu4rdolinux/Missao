@@ -5,14 +5,12 @@ const OpenWt = () => {
 }
 
 const WtButton = () => {
-    return (
-      <div className="w-32 h-32 fixed bottom-2 right-2">
-        <button 
-          onClick={OpenWt} 
-          className="w-full h-full bg-wt-image bg-no-repeat bg-center bg-cover rounded-full"
-        ></button>
-      </div>
-    );
+  return (
+    <button 
+      onClick={OpenWt} 
+      className="w-32 h-32 fixed bottom-2 right-2 bg-wt-image bg-no-repeat bg-center bg-cover rounded-full hover:shadow-lg transition-all duration-300 ease-in-out"
+    ></button>
+  );
 };
 
 export default WtButton;
