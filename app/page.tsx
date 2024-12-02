@@ -11,7 +11,7 @@ export default function Home() {
       <Body/>
       <WtButton/>
       <OurStory/>
-      <OurServices/>
+      <OurServices/> 
     </>
   );
 }
