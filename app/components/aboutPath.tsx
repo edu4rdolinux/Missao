@@ -1,7 +1,7 @@
 import NavigationPath from "./nativationPath"
 
 const About = () => {
-    return <NavigationPath Text="About Us"/>
+    return <NavigationPath scrollToPosition={940} Text="About Us"/>
 }
 
 export default About
