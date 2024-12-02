@@ -1,6 +1,6 @@
 const TheServicesTemporary = () => {
     return (
-        <ul>
+        <li className="m-6">
             <li>Вы</li>
             <li>настолько</li>
             <li>ленивы</li>
@@ -11,6 +11,8 @@ const TheServicesTemporary = () => {
             <li>просто</li>
             <li>из</li>
             <li>любопытства?</li>
-        </ul>
+        </li>
     )
 }
+
+export default TheServicesTemporary
