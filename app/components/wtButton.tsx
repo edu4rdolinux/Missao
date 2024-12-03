@@ -8,7 +8,7 @@ const WtButton = () => {
   return (
     <button 
       onClick={OpenWt} 
-      className="w-32 h-32 fixed bottom-2 right-2 bg-wt-image bg-no-repeat bg-center bg-cover rounded-full hover:shadow-lg transition-all duration-300 ease-in-out"
+      className="w-32 h-32 fixed bottom-16 right-1 bg-wt-image bg-no-repeat bg-center bg-cover rounded-full hover:shadow-lg transition-all duration-300 ease-in-out"
     ></button>
   );
 };

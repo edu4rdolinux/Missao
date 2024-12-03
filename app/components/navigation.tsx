@@ -1,7 +1,6 @@
 import About from "./aboutPath"
 import Contact from "./contactPath"
 import Services from "./services"
-import Work from "./workPath"
 
 const Navigation = () => {
     return (
@@ -9,7 +8,6 @@ const Navigation = () => {
             <About/>
             <Services/>
             <Contact/>
-            <Work/>
         </div>
     )
 }
