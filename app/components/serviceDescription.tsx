@@ -3,7 +3,7 @@ interface DescriptionProps {
 }
 
 const ServiceDescription = ({ description }: DescriptionProps) => {
-    return <p className="text-white">{description}</p>;
+    return <p className="text-white text-center">{description}</p>;
 };
 
 export default ServiceDescription;
