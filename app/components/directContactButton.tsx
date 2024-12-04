@@ -6,7 +6,8 @@ const OpenLink = () => {
 
 const DirectContactButton = () => {
   return (
-    <button 
+    <button
+      style={{ marginTop: '1em' }}
       onClick={OpenLink} 
       className="w-64 h-16 text-3xl rounded-2xl bg-pink-primary text-slate-100 hover:shadow-5xl transition-all duration-300 ease-in-out"
     >

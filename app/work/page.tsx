@@ -1,3 +1,9 @@
+import WorkBody from "../components/workBody";
+
 export default function Page() {
-    return <h1>Work</h1>
+    return (
+        <>
+            <WorkBody/>
+        </>
+    )
 }
