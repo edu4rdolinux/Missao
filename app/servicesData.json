@@ -1,14 +1,34 @@
 [
-    {
-      "title": "Web Development",
-      "description": "Web development is essential for businesses as it strengthens their online presence and enhances interaction with customers. Moreover, it facilitates process automation and market expansion."
-    },
-    {
-      "title": "App Development",
-      "description": "App development helps businesses engage with users on mobile platforms, improving accessibility and creating more interactive customer experiences."
-    },
-    {
-      "title": "SEO Optimization",
-      "description": "SEO Optimization increases a website's visibility in search engine results, driving organic traffic and improving the overall user experience."
-    }
+  {
+    "title": "Web Development",
+    "description": "Web development is essential for businesses as it strengthens their online presence and enhances interaction with customers. Moreover, it facilitates process automation and market expansion."
+  },
+  {
+    "title": "App Development",
+    "description": "App development helps businesses engage with users on mobile platforms, improving accessibility and creating more interactive customer experiences."
+  },
+  {
+    "title": "SEO Optimization",
+    "description": "SEO Optimization increases a website's visibility in search engine results, driving organic traffic and improving the overall user experience."
+  },
+  {
+    "title": "Digital Marketing",
+    "description": "Digital marketing strategies help businesses reach a wider audience through online channels, driving brand awareness, customer engagement, and conversions."
+  },
+  {
+    "title": "Social Media Management",
+    "description": "Social media management allows businesses to build their presence on platforms like Facebook, Instagram, and Twitter, enhancing brand visibility and customer relationships."
+  },
+  {
+    "title": "E-commerce Solutions",
+    "description": "E-commerce solutions provide businesses with the tools to sell products or services online, offering payment gateways, inventory management, and order fulfillment capabilities."
+  },
+  {
+    "title": "Graphic Design",
+    "description": "Graphic design services create visually compelling materials, from logos to marketing collateral, helping businesses communicate their brand identity effectively."
+  },
+  {
+    "title": "Content Creation",
+    "description": "Content creation involves producing engaging, high-quality written, visual, or video content that resonates with audiences, boosting brand engagement and loyalty."
+  }
 ]

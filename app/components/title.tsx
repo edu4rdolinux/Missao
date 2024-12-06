@@ -9,7 +9,7 @@ const Title = () => {
       router.push('/'); 
     };
 
-    return <h1 onClick={handleRedirect} className="text-white-primary font-sans m-4 text-2xl">OurServices</h1>
+    return <h1 onClick={handleRedirect} className="text-white-primary font-sans text-2xl">OurServices</h1>
 }
 
 export default Title

@@ -8,7 +8,7 @@ interface Props {
 
 const ServiceTemplate = ({ Title, Description }: Props) => {
     return (
-        <div className="w-96 h-96 bg-slate-100 flex flex-col justify-around" style={{ backgroundColor: "#212223" }}>
+        <div>
             <ServiceTitle title={Title} />
             <ServiceDescription description={Description} />
         </div>
