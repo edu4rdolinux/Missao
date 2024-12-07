@@ -3,7 +3,7 @@ import services from "../servicesData.json";
 
 const TheServices = () => {
   return (
-    <div className="flex gap-8 flex-col">
+    <div className="flex gap-8 flex flex-wrap">
       {services.map((service, index) => (
         <ServiceTemplate
           key={index}
